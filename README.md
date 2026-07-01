@@ -8,6 +8,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/T-MONIKA/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/T-MONIKA/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/T-MONIKA/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/T-MONIKA/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/T-MONIKA/leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/T-MONIKA/leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
