@@ -34,3 +34,15 @@ ans = [nums[nums[0]], nums[nums[1]], nums[nums[2]], nums[nums[3]], nums[nums[4]]
 
 <p>&nbsp;</p>
 <p><strong>Follow-up:</strong> Can you solve it without using an extra space (i.e., <code>O(1)</code> memory)?</p>
+
+<p>Suppose nums = [0, 2, 1, 3]
+
+At i = 0: nums[0] is 0. Now look up nums[0], which is 0. So ans[0] = 0.
+
+At i = 1: nums[1] is 2. Now look up nums[2], which is 1. So ans[1] = 1.
+
+At i = 2: nums[2] is 1. Now look up nums[1], which is 2. So ans[2] = 2.
+
+At i = 3: nums[3] is 3. Now look up nums[3], which is 3. So ans[3] = 3.
+
+The final array ans becomes [0, 1, 2, 3].</p>
