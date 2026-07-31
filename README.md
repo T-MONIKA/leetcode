@@ -8,6 +8,7 @@
 | [0414-third-maximum-number](https://github.com/T-MONIKA/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/T-MONIKA/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/T-MONIKA/leetcode/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/T-MONIKA/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/T-MONIKA/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/T-MONIKA/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/T-MONIKA/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -44,4 +45,5 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/T-MONIKA/leetcode/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/T-MONIKA/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
