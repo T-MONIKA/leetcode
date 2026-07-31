@@ -13,6 +13,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/T-MONIKA/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/T-MONIKA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/T-MONIKA/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/T-MONIKA/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/T-MONIKA/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/T-MONIKA/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/T-MONIKA/leetcode/tree/master/1929-concatenation-of-array) |
