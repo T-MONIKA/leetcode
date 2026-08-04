@@ -20,6 +20,7 @@
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/T-MONIKA/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/T-MONIKA/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/T-MONIKA/leetcode/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/T-MONIKA/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,10 +59,12 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/T-MONIKA/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/T-MONIKA/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/T-MONIKA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3731-find-missing-elements](https://github.com/T-MONIKA/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/T-MONIKA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3731-find-missing-elements](https://github.com/T-MONIKA/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
