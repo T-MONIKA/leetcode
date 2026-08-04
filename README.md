@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-MONIKA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/T-MONIKA/leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/T-MONIKA/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/T-MONIKA/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/T-MONIKA/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/T-MONIKA/leetcode/tree/master/0724-find-pivot-index) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-MONIKA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/T-MONIKA/leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/T-MONIKA/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/T-MONIKA/leetcode/tree/master/0344-reverse-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/T-MONIKA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Database
