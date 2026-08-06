@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/T-MONIKA/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/T-MONIKA/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/T-MONIKA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/T-MONIKA/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
