@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/T-MONIKA/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-MONIKA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/T-MONIKA/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/T-MONIKA/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/T-MONIKA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/T-MONIKA/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/T-MONIKA/leetcode/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@
 | [0016-3sum-closest](https://github.com/T-MONIKA/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-MONIKA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/T-MONIKA/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/T-MONIKA/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/T-MONIKA/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/T-MONIKA/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/T-MONIKA/leetcode/tree/master/0283-move-zeroes) |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/T-MONIKA/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/T-MONIKA/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/T-MONIKA/leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/T-MONIKA/leetcode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/T-MONIKA/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -84,4 +87,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/T-MONIKA/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/T-MONIKA/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/T-MONIKA/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
