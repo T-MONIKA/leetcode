@@ -15,6 +15,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/T-MONIKA/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/T-MONIKA/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/T-MONIKA/leetcode/tree/master/0941-valid-mountain-array) |
+| [1089-duplicate-zeros](https://github.com/T-MONIKA/leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/T-MONIKA/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/T-MONIKA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/T-MONIKA/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -33,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/T-MONIKA/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/T-MONIKA/leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/T-MONIKA/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1089-duplicate-zeros](https://github.com/T-MONIKA/leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/T-MONIKA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Database
 |  |
