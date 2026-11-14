@@ -48,6 +48,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/T-MONIKA/leetcode/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/T-MONIKA/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/T-MONIKA/leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/T-MONIKA/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1518-water-bottles](https://github.com/T-MONIKA/leetcode/tree/master/1518-water-bottles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/T-MONIKA/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
