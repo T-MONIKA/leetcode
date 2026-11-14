@@ -26,6 +26,7 @@
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/T-MONIKA/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/T-MONIKA/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/T-MONIKA/leetcode/tree/master/1929-concatenation-of-array) |
+| [3151-special-array-i](https://github.com/T-MONIKA/leetcode/tree/master/3151-special-array-i) |
 | [3731-find-missing-elements](https://github.com/T-MONIKA/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
