@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/T-MONIKA/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/T-MONIKA/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-MONIKA/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/T-MONIKA/leetcode/tree/master/0027-remove-element) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/T-MONIKA/leetcode/tree/master/0001-two-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/T-MONIKA/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3731-find-missing-elements](https://github.com/T-MONIKA/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
